@@ -4,7 +4,7 @@ maintainer_email 'ashutosh.vct@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
 long_description 'Installs/Configures apache'
-version '0.1.0'
+version '0.1.5'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 depends "php"  
 
